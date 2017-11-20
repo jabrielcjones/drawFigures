@@ -1,4 +1,4 @@
-// file name -- assign01.cpp
+// file name -- drawFigure.cpp
 // Jabriel C. Jones
 // Draw figures based on data read in from a file.
 
